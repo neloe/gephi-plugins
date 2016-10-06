@@ -1,5 +1,6 @@
 Manifest-Version: 1.0
 OpenIDE-Module-Name: Visual Constraint Based Frequent Subgraph mining
+OpenIDE-Module-Requires: org.openide.windows.WindowManager
 OpenIDE-Module-Short-Description: Plugin to allow on-the-fly modification of FSG constraints.
 OpenIDE-Module-Long-Description: An implementation of the dynamic FSG constraint system found in Leopold et al.[D[D[D[C[C[C)[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D([[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~ VisCFSM (Leopold et al.).
 OpenIDE-Module-Display-Category: Tool
